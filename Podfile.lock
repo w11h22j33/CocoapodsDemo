@@ -1,0 +1,91 @@
+PODS:
+  - AFNetworking (2.2.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.2.0):
+    - AFNetworking/NSURLConnection
+  - AFNetworking/Reachability (2.2.0)
+  - AFNetworking/Security (2.2.0)
+  - AFNetworking/Serialization (2.2.0)
+  - AFNetworking/UIKit (2.2.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - GCJSONKit (1.5.0)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - Nimbus (1.2.0):
+    - Nimbus/AttributedLabel
+    - Nimbus/Badge
+    - Nimbus/Collections
+    - Nimbus/Collections
+    - Nimbus/Core
+    - Nimbus/CSS
+    - Nimbus/Interapp
+    - Nimbus/Launcher
+    - Nimbus/Models
+    - Nimbus/NetworkControllers
+    - Nimbus/NetworkImage
+    - Nimbus/Overview
+    - Nimbus/PagingScrollView
+    - Nimbus/Photos
+    - Nimbus/Textfield
+    - Nimbus/WebController
+  - Nimbus/AttributedLabel (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Badge (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Collections (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Core (1.2.0)
+  - Nimbus/CSS (1.2.0):
+    - AFNetworking (~> 2.1)
+    - Nimbus/Core
+    - Nimbus/Textfield
+  - Nimbus/Interapp (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Launcher (1.2.0):
+    - Nimbus/Core
+    - Nimbus/PagingScrollView
+  - Nimbus/Models (1.2.0):
+    - Nimbus/Core
+  - Nimbus/NetworkControllers (1.2.0):
+    - Nimbus/Core
+  - Nimbus/NetworkImage (1.2.0):
+    - AFNetworking (~> 2.1)
+    - Nimbus/Core
+  - Nimbus/Overview (1.2.0):
+    - Nimbus/Core
+    - Nimbus/Models
+  - Nimbus/PagingScrollView (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Photos (1.2.0):
+    - Nimbus/Core
+    - Nimbus/PagingScrollView
+  - Nimbus/Textfield (1.2.0):
+    - Nimbus/Core
+  - Nimbus/WebController (1.2.0):
+    - Nimbus/Core
+  - Reachability (3.1.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.2.0)
+  - GCJSONKit (~> 1.5.0)
+  - MKNetworkKit (~> 0.87)
+  - Nimbus (~> 1.2.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: e8cfd8f3fe3bfe19124a0cc63f4d45752d892a56
+  GCJSONKit: af54b753897015ab02c0f76a01e121f0053426af
+  MKNetworkKit: f174100f92473012138b6b1c3040266af8d43a14
+  Nimbus: 5ebbf247dc746e0d1af8fef52ceefca7f9f47c66
+  Reachability: be4883bb93f31e38266ae3365e5600a317aae735
+
+COCOAPODS: 0.29.0
